@@ -23,10 +23,10 @@ The following **additional** features are implemented:
 * [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
-s
+
 Here's a walkthrough of implemented required features:
 
-<img src='/community-board/public/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="/community-board/public/video.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
 
